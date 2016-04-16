@@ -1,5 +1,9 @@
 {
   "name": "meteor-playground",
+  "version": "0.0.1",
+  "repository": "https://github.com/nikhilmotiani/meteor-playground",
+  "author": "Nikhil Motiani <nikhil.motiani@outlook.com>",
+  "license": "Copyright [2016]",
   "private": true,
   "scripts": {
     "start": "meteor run"
